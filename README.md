@@ -28,7 +28,7 @@ It includes:
 
 ---
 
-## Repository Structure
+## Repository Structure 
 
 ```
 elastic-stack-windows/
