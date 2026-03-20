@@ -165,7 +165,6 @@ See [`notebook/elastic_stack_setup.ipynb`](notebook/elastic_stack_setup.ipynb) f
 ## Related Resources
 
 - [Elastic Official Docs](https://www.elastic.co/guide/index.html)
-- [Splunk Migration Guide](https://www.elastic.co/guide/en/kibana/current/index.html)
 - [VMware Fusion Download](https://www.vmware.com/products/fusion.html)
 - [Windows 11 ARM64 ISO](https://aka.ms/windowsinsiderpreview)
 
