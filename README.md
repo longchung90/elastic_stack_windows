@@ -1,3 +1,23 @@
+<div align="center">
+  <img src="banner.webp" alt="Elastic Stack on Windows 11" width="100%" style="border-radius: 10px;" />
+  
+  <h1>Elastic Stack on Windows 11 via VMware Fusion</h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Elasticsearch-7.16.3-005571?style=for-the-badge&logo=elasticsearch" />
+    <img src="https://img.shields.io/badge/Kibana-7.16.3-E8478B?style=for-the-badge&logo=kibana" />
+    <img src="https://img.shields.io/badge/Windows_11-ARM64-0078D6?style=for-the-badge&logo=windows" />
+    <img src="https://img.shields.io/badge/Mac_M4-Apple_Silicon-000000?style=for-the-badge&logo=apple" />
+    <img src="https://img.shields.io/badge/VMware_Fusion-13-607078?style=for-the-badge&logo=vmware" />
+  </p>
+
+  <p>
+    Local Elasticsearch + Kibana development environment on Windows 11 ARM64 (Mac M4 via VMware Fusion)<br/>
+    Built for <strong>Splunk → Elasticsearch migration</strong> job preparation
+  </p>
+
+</div>
+
 # Elastic Stack on Windows 11 via VMware Fusion
 ### Running Elasticsearch & Kibana on a Mac M4 using VMware Fusion + Windows 11 ARM64
 
