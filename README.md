@@ -170,6 +170,3 @@ See [`notebook/elastic_stack_setup.ipynb`](notebook/elastic_stack_setup.ipynb) f
 - [Windows 11 ARM64 ISO](https://aka.ms/windowsinsiderpreview)
 
 ---
-
-*Built as part of Splunk → Elasticsearch migration job preparation*  
-*Host: macOS M4 → VMware Fusion → Windows 11 ARM64 → Elastic Stack 7.16.3*
