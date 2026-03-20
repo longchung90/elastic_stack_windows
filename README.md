@@ -25,13 +25,12 @@
 
 ## Overview
 
-This repo documents the setup of a local **Elasticsearch + Kibana** development environment on a **Mac M4 (Apple Silicon)** using **VMware Fusion** to run **Windows 11 ARM64** — built as job preparation for a Splunk → Elasticsearch migration project.
+This repo documents the setup of a local **Elasticsearch + Kibana** development environment on a **Mac M4 (Apple Silicon)** using **VMware Fusion** to run **Windows 11 ARM64**
 
 It includes:
 - Step-by-step Windows 11 VM setup on Mac M4
 - Elasticsearch & Kibana installation on Windows
 - CLI comparison across macOS, Windows, and Linux
-- Splunk → Elasticsearch concept mapping
 - A Jupyter notebook walkthrough
 
 ---
@@ -178,7 +177,6 @@ See [`notebook/elastic_stack_setup.ipynb`](notebook/elastic_stack_setup.ipynb) f
 - Installation commands
 - API query examples
 - KQL practice queries
-- Splunk → KQL translation examples
 
 ---
 
