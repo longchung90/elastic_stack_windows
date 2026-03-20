@@ -13,7 +13,6 @@
 
   <p>
     Local Elasticsearch + Kibana development environment on Windows 11 ARM64 (Mac M4 via VMware Fusion)<br/>
-    Built for <strong>Splunk → Elasticsearch migration</strong> job preparation
   </p>
 
 </div>
